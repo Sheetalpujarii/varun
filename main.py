@@ -1,3 +1,1 @@
-print("varun on chimpu")
-
-hi old chimpu
+print("on chimpu")
